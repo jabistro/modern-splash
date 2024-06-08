@@ -13,6 +13,7 @@ import {
 } from "./components";
 
 const App = () => {
+  console.log('test');
 
   alert("Links and buttons are nonfunctional. This is just a demo splash page.");
 
