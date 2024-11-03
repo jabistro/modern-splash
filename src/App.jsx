@@ -13,7 +13,7 @@ import {
 } from "./components";
 
 const App = () => {
-  alert("Links and buttons are nonfunctional. This is just a demoooo splash page.");
+  alert("Links and buttons are nonfunctional. This is just a demooooo splash page.");
 
   return (
     <div className="bg-primary w-full overflow-hidden">
